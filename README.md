@@ -1,4 +1,6 @@
 # STFService.apk
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshnagori%2FSTFService-os.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshnagori%2FSTFService-os?ref=badge_shield)
+
 
 # Warning
 
@@ -167,3 +169,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 See [LICENSE](LICENSE).
 
 Copyright © CyberAgent, Inc. All Rights Reserved.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshnagori%2FSTFService-os.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshnagori%2FSTFService-os?ref=badge_large)
